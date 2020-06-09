@@ -99,7 +99,7 @@
         </Attribute>
       </Attributes>
       <ReturnValue>
-        <ReturnType>System.Boolean</ReturnType>
+        <ReturnType FrameworkAlternate="msbuild-15;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8">System.Boolean</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
@@ -418,7 +418,7 @@
         <AssemblyVersion>15.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
-        <ReturnType>System.String</ReturnType>
+        <ReturnType FrameworkAlternate="msbuild-15;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8">System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
@@ -513,7 +513,7 @@
         </Attribute>
       </Attributes>
       <ReturnValue>
-        <ReturnType>System.String[]</ReturnType>
+        <ReturnType FrameworkAlternate="msbuild-15;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8">System.String[]</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
@@ -654,7 +654,7 @@
         </Attribute>
       </Attributes>
       <ReturnValue>
-        <ReturnType>System.String</ReturnType>
+        <ReturnType FrameworkAlternate="msbuild-15;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8">System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
@@ -701,7 +701,7 @@
         </Attribute>
       </Attributes>
       <ReturnValue>
-        <ReturnType>System.Boolean</ReturnType>
+        <ReturnType FrameworkAlternate="msbuild-15;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8">System.Boolean</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
@@ -742,7 +742,7 @@
         </Attribute>
       </Attributes>
       <ReturnValue>
-        <ReturnType>System.Boolean</ReturnType>
+        <ReturnType FrameworkAlternate="msbuild-15;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8">System.Boolean</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
